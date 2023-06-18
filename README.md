@@ -29,6 +29,7 @@ Once you have installed the required libraries, you can run the gender detection
 The project is structured as follows:
 
 - `SIFT_NoteBook.py` - This is the script that runs the gender detection model using SIFT features and SVM classifier.
+- `Dataset` - This folder contain the data set
 
 ## Contributing
 
