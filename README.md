@@ -22,18 +22,13 @@ pip install opencv-python
 pip install xgboost
 ```
 
-Once you have installed the required libraries, you can run the gender detection models by running the `svm_gender_detection.py` and `xgboost_gender_detection.py` files. The models will prompt you to enter the path to an image of a face, and they will then classify the image as either male or female.
+Once you have installed the required libraries, you can run the gender detection models by running the `SIFT_NoteBook.ipynb` and `xgboost_gender_detection.py` files. The models will prompt you to enter the path to an image of a face, and they will then classify the image as either male or female.
 
 ## Project Structure
 
 The project is structured as follows:
 
-- `svm_gender_detection.py` - This is the script that runs the gender detection model using SIFT features and SVM classifier.
-- `xgboost_gender_detection.py` - This is the script that runs the gender detection model using SIFT features and XGBoost classifier.
-- `data` - This folder contains a sample dataset of facial images.
-- `data_processing.py` - This module contains functions for processing and cleaning the facial image data.
-- `feature_extraction.py` - This module contains functions for extracting SIFT features from the facial image data.
-- `model_training.py` - This module contains functions for training and evaluating the machine learning models.
+- `SIFT_NoteBook.py` - This is the script that runs the gender detection model using SIFT features and SVM classifier.
 
 ## Contributing
 
