@@ -1,4 +1,4 @@
-# Gender Detection using SIFT Feature Extraction and SVM/XGBoost Models
+# Facial Gender Detection using SIFT Feature
 
 This project aims to develop two machine learning models that can detect the gender of a person from their facial features. The models use Scale-Invariant Feature Transform (SIFT) features to extract information from facial images and classify them as either male or female. The models are implemented using Support Vector Machines (SVM) and XGBoost algorithms.
 
